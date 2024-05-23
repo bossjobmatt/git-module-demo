@@ -1,3 +1,3 @@
 # git-module-demo
 
-this is test
+this is test.
